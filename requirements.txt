@@ -1,0 +1,10 @@
+requests
+httpx
+numpy
+faiss-cpu
+chromadb
+pydantic
+fastapi
+uvicorn
+python-dotenv
+google-genai
